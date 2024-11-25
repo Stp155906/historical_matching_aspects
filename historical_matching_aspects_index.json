@@ -1,6 +1,7 @@
 {
     "parts": [
         "historical_matching_aspects_part_1.json",
-        "historical_matching_aspects_part_2.json"
+        "historical_matching_aspects_part_2.json",
+        "historical_matching_aspects_part_3.json"
     ]
 }
